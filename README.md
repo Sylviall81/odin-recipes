@@ -21,7 +21,7 @@ The goal of this project is to build an attractive and user-friendly recipe webp
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone <REPOSITORY_URL>
+   git clone <https://github.com/Sylviall81/odin-recipes.git>
 
 2.Open the index.html file in your web browser.
 

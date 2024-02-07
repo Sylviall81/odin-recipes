@@ -19,7 +19,7 @@ body{
   border-radius: 10%;
   padding: 15px;
   inline-size:50%;
-  block-height: 30%;
+  block-size: 30%;
 
   margin: 0 auto;
   text-align: center;
@@ -29,14 +29,16 @@ body{
 
 .big {
   inline-size:70%;
-  block-height: 60%;
+  block-size: 60%;
   border-radius: 2%;
   font-size: 0.7em;
-  line-block-height: 1.2em;
+  line-height: 1em;
+  
 }
 
 .container > img {
   inline-size: 45%;
+  block-size: auto;
   margin: 10px;
 }
 
